@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Lisa, thanks to your test scores, our computer lab finally has... a computer!
 You learnded!
+=======
+You learnded!
+Sure you are...
+>>>>>>> master
